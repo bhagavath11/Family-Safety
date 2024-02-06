@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Family safty</string>
+    <string name="security">Security</string>
+    <string name="sos">SOS</string>
+    <string name="message">In case of Emergency, keep telling family members to contack me.</string>
+    <string name="guard">GUARD</string>
+    <string name="home">Home</string>
+    <string name="dashboard">dashboard</string>
+    <string name="guards">guard</string>
+    <string name="profile">profile</string>
+    <string name="message_guard">Open when you are on a potentially dangerous journey.</string>
+    <string name="my_family">My Family</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
